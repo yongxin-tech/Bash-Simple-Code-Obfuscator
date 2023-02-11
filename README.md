@@ -1,5 +1,8 @@
 # Simple Code Obfuscator - MacOS bash
-------
+
+![macOS](https://svgshare.com/i/ZjP.svg)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator/blob/main/LICENSE)
+
 
 This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
 
@@ -7,14 +10,12 @@ The script read symbols from <code>func.list</code> file, replace symbols with r
 
 
 # Environment
-------
 
 The script is only tested on following environment,
 * OS: MacOS 12+
 * ISE: Terminal
 
 # Usage
-------
 
 * Recommend: The script will overwrite the file directly, better use it on a separate branch
 
@@ -53,9 +54,9 @@ The script is only tested on following environment,
 
 
 # License
-------
+
 Copyright (c) 2023-present [Yong-Xin Technology Ltd.](https://yong-xin.tech/)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator/blob/main/LICENSE) file for details.
 
 
