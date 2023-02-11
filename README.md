@@ -1,8 +1,6 @@
 # Simple Code Obfuscator - MacOS bash
 ------
 
-[![License][license-image]][license-url]
-
 This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
 
 The script read symbols from <code>func.list</code> file, replace symbols with random string, then store mapping into sqlite.
