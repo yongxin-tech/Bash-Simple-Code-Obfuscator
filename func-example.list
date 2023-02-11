@@ -1,0 +1,9 @@
+#__Infra.MethodChannelDispatcher
+MethodChannelDispatcher
+bind
+invokeFlutterMethod
+#release
+#__Infra.Logger
+info
+debug
+warn
